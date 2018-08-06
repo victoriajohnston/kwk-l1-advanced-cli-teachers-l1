@@ -1,2 +1,2 @@
 grep dog a_lot_of_text.txt
-grep -r dog big_directory_with_sub_directories
+grep -r dog big_directory_with_sub_directoriesgr
